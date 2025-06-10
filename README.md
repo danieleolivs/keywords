@@ -45,4 +45,5 @@ Com o ambiente configurado, você pode rodar os scripts de análise.
 ## 📚 Referências
 
 * **Manual de Padronização de Textos do STJ:** Disponível [neste link](https://www.tjes.jus.br/corregedoria/wp-content/uploads/2016/07/STJ-Manual-Padroniza%C3%A7%C3%A3o-Textos.pdf).
-* **Pesquisa de Jurisprudência do STF:** Disponível [neste link](
+* **Pesquisa de Jurisprudência do STF:** Disponível [neste link](https://jurisprudencia.stf.jus.br/pages/search?base=acordaos&pesquisa_inteiro_teor=false&sinonimo=true&plural=true&radicais=false&buscaExata=true&page=1&pageSize=10&queryString=anatel&sort=date&sortBy=desc).
+
